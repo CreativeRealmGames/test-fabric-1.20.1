@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.socialmean1.tutorialmod.TestMod"
+          "net.socialmean1.tutorialmod.TutorialMod"
 		],
         "client": [
           "net.socialmean1.tutorialmod.TutorialModClient"
         ],
 		"fabric-datagen": [
-			"net.socialmean1.tutorialmod.TestModDataGenerator"
+          "net.socialmean1.tutorialmod.TutorialModDataGenerator"
 		]
 	},
 	"mixins": [
